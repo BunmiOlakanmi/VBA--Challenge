@@ -11,5 +11,5 @@ Given the excel document named "Multiple_year_stock_data", I created a script th
   
   - You should also have conditional formatting that will highlight positive change in green and negative change in red.
   
-Details in the README Doc attached.
+Details in the README document attached.
 
